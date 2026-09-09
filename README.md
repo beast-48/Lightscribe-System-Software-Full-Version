@@ -232,4 +232,4 @@ This repository serves as the official landing page for LightScribe System Softw
 **Get the most recent version of LightScribe System Software today!**
 
 ---
-**Last updated:** 2026-09-09 16:56:51 UTC
+**Last updated:** 2026-09-09 19:35:31 UTC
